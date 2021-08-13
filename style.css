@@ -1,0 +1,263 @@
+.bar ul{
+    
+    padding: 0px;
+    margin: 0px 0px;
+    overflow: hidden;
+    display: block;
+}
+.bar ul li{
+    list-style: none;
+    
+    padding: 0px 40px;
+    overflow: hidden;
+    float: left;
+    background-color:gray;
+    font-size: 25px;
+    color: white;
+    
+
+}
+.bar ul li:hover{
+    background-color:silver;
+    color: black;
+    font-size: 35px;
+    border-radius: 30px;
+}
+.image{
+    background-image: url(images/new.jpg);
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    margin:-100px 0px 0px 0px;
+}
+.salad1{
+    font-size: 100px;
+    padding:100px 70px;
+    font-weight: bold;
+
+}
+.salad2{
+    font-size: 30px;
+    margin: -180px 70px;
+}
+.saladtext{
+    margin:190px 75px;
+    font-size: 20px;
+    padding: 0px;
+    
+}
+.deli{
+    margin-left: 80px;
+    font-size: bold;
+    font-size: 25px;
+}
+.table{
+    margin: 10px 10px 10px 85px;
+    display: inline-block;
+    align-items: center;
+    
+
+}
+
+.table1{
+
+}
+.table2{
+   padding: 10px 0px 0px 100px;
+
+}
+.table3{
+    padding: 40px 20px 20px 0px;
+}
+.table4{
+    padding:0px 00px 0px 100px;
+}
+.table5{
+    padding: 40px 20px 20px 0px;
+}
+.table6{
+    padding:0px 00px 0px 100px;
+}
+.tabla{
+    align-items: center;
+    margin-left: 40px;
+    
+}
+.center{
+    text-align: center;
+    text-decoration: none;
+}
+.bm{
+    margin: 0px 160px;
+}
+.mb{
+    
+    margin: 0px 150px;
+}
+.rio{
+    margin: -90px 10px 0px 320px;
+    background-color: white; 
+    
+}
+.tokyo{
+    background-color:whitesmoke;
+    overflow: hidden;
+}
+.imag{
+    align-items: center;
+    padding-left: 500px;
+    padding-top: 50px;
+   
+}
+.sas{
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: -700px;
+}
+.spa{
+    border: 2px solid black;
+    border-radius: 50px;
+    
+    padding:0px 150px;
+    background-color: black;
+    margin: 300px 0px 0px 100px;
+    
+}
+.toco{
+    font-size: 20px;
+    margin-left: 100px;
+    
+}
+.toco a{
+    text-decoration: none;
+    color: red;
+}
+.a100{
+    margin-top: -460px;
+    margin-left:480PX;
+    font-size: 80px;
+}
+.whe{
+    margin-left: 480px;
+    font-size: 20px;
+    margin-top: -35px;
+}
+.whe a{
+    text-decoration: red;
+    color: red;
+}
+.divf1{
+    background-color: #F2F2F2;
+    height: 700px;
+    width: 100%;
+    padding:1px 200px 200px 200px;
+}
+.divh{
+   font-size: 30px;
+   font-weight: bold;
+   padding-top: 30px;
+ 
+
+
+}
+.form{
+    width: 700px;
+    height: 600px;
+    background-color:white;
+    text-align: center; 
+    
+    margin: 90px 20px 20px 100px;
+    border-radius: 80px;
+    
+}
+.phr{
+    font-size: 20px;
+}
+.eml{
+   display: inline-block;
+   box-sizing: border-box;
+   
+   
+
+  
+
+}
+.sub{
+    background-color: orange;
+    width: 400px;
+    height: 20px;
+    box-sizing: 20px;
+    margin-left: 145px;
+    margin-top: 40px;
+    border: solid 2px black;
+    
+}
+input[type="button"] ,select{
+    width: 100%;
+    
+}
+input[ type="text"],select{
+    width:100%
+}
+.fom{
+    width: 500px;
+    height: 500px;
+    background-color:white;
+    margin-left: 470px;
+    border: 2px solid orange;
+    border-radius: 50px;
+    
+}
+
+input[type="button"]{
+    background-color:orange;
+    width: 100%;
+    height: 50px;
+    display: block;
+    border-radius: 30px;
+    margin-top: 50px;
+    border: 2px solid orange ;
+    
+}
+
+input[type="text"]{
+    background-color:palegoldenrod;
+    width: 100%;
+    height: 50px;
+    display: block;
+    border-radius: 30px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    border:solid;
+    border-color: orange;
+    
+  
+    
+
+}
+.fom{
+    padding: 40px;
+}
+.back{
+    background-color:whitesmoke;
+    width: 100%;
+    height: 700px;
+    padding-top: 200px;
+}
+
+.head{
+    margin: 10px 10px 0px 130px;
+    font-size: 30px;
+}
+.patel{
+    margin-left: 23px;
+    font-size: 22px;
+}
+input[type="button"]:hover{
+    background-color: #FFD371;
+    font-size: 30px;
+}
+input[type="text"]:hover{
+    background-color:#FFD371;
+    font-size: 30px;
+}
